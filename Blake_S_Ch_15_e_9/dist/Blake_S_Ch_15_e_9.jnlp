@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="Blake_S_Ch_15_e_9.jnlp">
+  <information>
+    <title>Blake_S_Ch_15_e_9</title>
+    <vendor>Programming</vendor>
+    <description>null</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="Blake_S_Ch_15_e_9.jar" size="3463" download="eager" />
+  </resources>
+  <jfx:javafx-desc  width="800" height="600" main-class="blake_s_ch_15_e_9.Blake_S_Ch_15_e_9"  name="Blake_S_Ch_15_e_9" />
+  <update check="always"/>
+</jnlp>
